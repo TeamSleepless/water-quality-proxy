@@ -1,3 +1,1 @@
-# myvega
-# lazy-dog-olo
-# lazy-dog-olo
+# paleo-custom-app
